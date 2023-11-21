@@ -18,7 +18,7 @@ Welcome to our beginner-friendly Node.js web scraping project! Retrieve data fro
 4. **Run the node command:**
 
     ```bash
-    npm run server <website-url>
+    npm run server
     ```
 
 Happy coding! 🚀
